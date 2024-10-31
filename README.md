@@ -1,6 +1,6 @@
-- 👋 Hi, I’m MoFa82
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning C/C++
+- 👋 Hi, I’m Mojtaba
+- 👀 I’m interested in Blockchain, Smart Contracts, Linux, Open source, Maths
+- 🌱 I’m currently learning C/C++, Solidity
 - 💞️ I’m looking to collaborate on cool and small projects
 - 📫 How to reach me?! EMAIL
 
