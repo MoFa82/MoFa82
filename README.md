@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mojtaba
-- 👀 I’m interested in Blockchain, Smart Contracts, Linux, Open source, Maths
+- 👀 I’m interested in Blockchain, Linux, Open source, Maths, AI
 - 🌱 I’m currently learning C/C++, Solidity
 - 💞️ I’m looking to collaborate on cool and small projects
 - 📫 How to reach me?! EMAIL
